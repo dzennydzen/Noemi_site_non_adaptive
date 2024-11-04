@@ -30,7 +30,7 @@ body {
     width: 100%;
     min-height: 485px;
 
-    background-image: url('/header/banner/rock-731140_1920.png');
+    background-image: url('header/banner/rock-731140_1920.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
